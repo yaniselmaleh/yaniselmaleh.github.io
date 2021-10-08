@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+h1{
+    color: black;
+    font-family: 'Montserrat', sans-serif;
+}
+
+p{
+    font-family: 'Open Sans', sans-serif;
+}
+
+img{
+    width: auto;
+    height: 100px;
+    display: block;
+}
+
+/* 
+section{
+    height: 20vh;
+}
+
+section:nth-child(even){
+    background-color: lightgray;
+}
+
+section:nth-child(odd){
+    background-color:silver;
+} */
